@@ -1,6 +1,6 @@
 # Django-rest-framework
 
-此範例建立一個簡單的django框架並使用rest framework套件來時做Restful API
+此範例建立一個簡單的django框架並使用rest framework套件來實做Restful API
 
 建立類別與商品的Restful API
 
